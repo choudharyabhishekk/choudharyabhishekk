@@ -1,16 +1,37 @@
 ### Hi there 👋
+<h2>I'm Abhishek Choudhary</h2>
 
-<!--
-**choudharyabhishekk/choudharyabhishekk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4 >
+As a budding developer, I have developed multiple
+websites that have attracted millions of users from all
+around the world.
+</h4>
 
-Here are some ideas to get you started:
+<h2>GitHub Stats</h2>
+<details>
+<summary> 
+My Github Stats
+</summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Abhishek's Github Stats](https://github-readme-stats.vercel.app/api?username=choudharyabhishekk&show_icons=true&hide_title=true&count_private=true&theme=dark)
+
+</details>
+
+<h2>Languages</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=ts,js,php,dotnet,java,css&perline=3)](https://skillicons.dev)
+
+<h2>Frameworks</h2>
+  
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwindcss,bootstrap,express,nodejs&perline=3)](https://skillicons.dev)
+
+<h2>Databases</h2>
+  
+[![My Skills](https://skillicons.dev/icons?i=mongo,mysql,firebase,postgres)](https://skillicons.dev)
+
+<h2>Softwares</h2>
+ 
+[![My Skills](https://skillicons.dev/icons?i=git,androidstudio,xd,figma,wordpress,ps,notion&perline=)](https://skillicons.dev)
+
+
+
