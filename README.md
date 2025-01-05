@@ -2,9 +2,7 @@
 <h2>I'm Abhishek Choudhary</h2>
 
 <h4 >
-As a budding developer, I have developed multiple
-websites that have attracted millions of users from all
-around the world.
+I convert Caffeine to Code
 </h4>
 
 <h2>GitHub Stats</h2>
