@@ -11,8 +11,6 @@ I convert Caffeine to Code
 My Github Stats
 </summary>
 
-![Abhishek's Github Stats](https://github-readme-stats.vercel.app/api?username=choudharyabhishekk&show_icons=true&hide_title=true&count_private=true&theme=dark)
-
 </details>
 
 <h2>Languages</h2>
