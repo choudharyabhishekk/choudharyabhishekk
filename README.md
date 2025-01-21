@@ -34,7 +34,6 @@
 
 ## 📫 Let’s Connect!  
 - 💼 [LinkedIn](https://www.linkedin.com/in/choudharyabhishekk/)  
-- 💻 [Portfolio](https://github.com/choudharyabhishekk)  
 - 📨 [Email](mailto:Choudharyabhishekk@gmail.com)  
 
 ---
