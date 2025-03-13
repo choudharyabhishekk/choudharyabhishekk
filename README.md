@@ -1,15 +1,8 @@
-### Hi there! 👋  
-## I'm Abhishek Choudhary  
+<h1> Hi 👋 <br/>
+ I'm Abhishek Choudhary  </h1> 
+Meta certified full stack developer, building cool things. 
 
-
-
-## 🚀 About Me  
-- 🌟 Passionate **Front-End Developer** with a love for crafting seamless user experiences.  
-- 🌐 Experienced with **React**, **Next.js**, and building modern web apps.  
-- 💡 Constant learner exploring the latest in tech, from DevOps to backend optimization.  
-
-
-## 🛠️ Languages & Tools  
+## Expertise 
 
 ### **Languages**  
 [![My Skills](https://skillicons.dev/icons?i=ts,js,php,dotnet,python,css&perline=6)](https://skillicons.dev)
