@@ -15,7 +15,6 @@ Meta certified full stack developer, building cool things.
 ### **Tools & Software**  
 [![My Skills](https://skillicons.dev/icons?i=aws,git,androidstudio,xd,figma,wordpress&perline=6)](https://skillicons.dev)
 
----
 
 ## What I’m Currently Learning  
 - Web RTC
@@ -23,7 +22,6 @@ Meta certified full stack developer, building cool things.
 - Advanced **TypeScript** techniques.  
 - **Microservices** architecture.  
 
----
 
 ## Let’s Connect!  
 - [LinkedIn](https://www.linkedin.com/in/choudharyabhishekk/)  
