@@ -17,7 +17,7 @@ Meta certified full stack developer, building cool things.
 
 ---
 
-## 🌱 What I’m Currently Learning  
+## What I’m Currently Learning  
 - Web RTC
 - AWS
 - Advanced **TypeScript** techniques.  
@@ -25,7 +25,7 @@ Meta certified full stack developer, building cool things.
 
 ---
 
-## 📫 Let’s Connect!  
+## Let’s Connect!  
 - [LinkedIn](https://www.linkedin.com/in/choudharyabhishekk/)  
 - [Email](mailto:Choudharyabhishekk@gmail.com)  
 - [Portfolio](https://abhix.io/)
